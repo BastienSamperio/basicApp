@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IpacGame</string>
+    <string name="more">C\'est plus !</string>
+    <string name="less">C\est moins</string>
+    <string name="more_or_less">IpacGame</string>
+    <string name="validate">Valider</string>
+    <string name="remain_try">Il vous reste %d essais</string>
+    <string name="enter_number">Entrez un nombre</string>
+    <string name="splash">MDS Studio</string>
+</resources>
